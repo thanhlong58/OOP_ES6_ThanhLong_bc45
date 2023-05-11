@@ -36,7 +36,7 @@ export class Listperson {
                     <td>${perSonMoi.diaChi}</td>
                     <td>${perSonMoi.email}</td>
                     <td id="tinh-luong-nv">${tinhLuong}</td>
-                    <td id="tinh-dtb">${diemTrungBinh}</td>
+                    <td style="text-align: center;" id="tinh-dtb">${diemTrungBinh}</td>
                     <td>${perSonMoi.tenCongTy}</td>
                     <td>${perSonMoi.triGiaHoaDon}</td>
                     <td>${perSonMoi.danhGia}</td>
